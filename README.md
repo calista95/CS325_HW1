@@ -12,7 +12,7 @@ Names of extra credit files:
 * mergeTimeBest.cpp
 * mergeTimeWorst.cpp
 
-Instructions for running programs:   
+Instructions for running programs for all files:   
 Run g++ programName.cpp -o test  
 Then run ./test  
 Example: 
@@ -20,3 +20,10 @@ Example:
 g++ insertsort.cpp -o test
 ./test
 ```
+Files with timing data will appear as follows after running:
+* insert_data.txt
+* merge_data.txt
+* insert_data_best.txt
+* merge_data_best.txt
+* insert_data_worst.txt
+* merge_data_worst.txt
