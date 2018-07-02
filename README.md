@@ -1,4 +1,4 @@
-# CS325_HW1
++# CS325_HW1
 
 Names of primary files: 
 * insertsort.cpp
@@ -11,3 +11,12 @@ Names of extra credit files:
 * insertTimeWorst.cpp
 * mergeTimeBest.cpp
 * mergeTimeWorst.cpp
+
+Instructions for running programs:   
+Run g++ programName.cpp -o test  
+Then run ./test  
+Example: 
+```
+g++ insertsort.cpp -o test
+./test
+```
